@@ -5,7 +5,7 @@ A project to develop smart contracts for regulated security token offerings.
 
 Businesses want new options to raise capital, consumers want to invest in the brands they trust, and institutional investors want alternative (uncorrelated) assets to diversify their holdings.
 
-The crypto solutions to these problems are beleaguered by, volatility, fraud, and market manipulation.
+The crypto solutions to these problems are beleaguered by volatility, fraud, and market manipulation.
 
 It's time to build a new financial ecosystem that combines the protections of SEC regulation with the efficiency, security and liquidity of digital assets.
 
