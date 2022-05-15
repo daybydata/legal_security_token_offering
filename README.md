@@ -25,12 +25,16 @@ It's time to build a new financial ecosystem that combines the protections of SE
 
 Well-designed smart contracts can help ensure compliance with U.S. securities law automatically, preventing unqualified trades while ensuring transparency and accuracy with every transation.
 
+"ERC-1404 is a simple restricted token standard on Ethereum. The recent development of the ERC-1404 standard has a couple key features differentiating it from other standards; most notably, it holds similar properties to regulated securities. This feature gives the ERC-1404 token the properties to become a publicly traded, tokenized asset."
+
 “The new standard was proposed by TokenSoft, a leading blockchain-solutions company. The ERC-1404 consensus gives token issuers more control over circulation as well as visibility of holders. The ability to freeze supply and identify holders of the token differentiates it from the typical ERC-20 standard often used for altcoins. The ERC-1404 token was the only standard to be filed in multiple U.S. Securities and Exchange Commission (SEC) hearings, which could eventually result in the ability to transfer equities, debt and derivatives with it.”
 
 https://www.benzinga.com/markets/22/05/27058842/what-is-the-significance-of-the-erc1404
 
-```
+The ERC-1404 standard inherits all of the ERC-20 functionality but adds critical new features with just two additional lines of code. The code behind these protocols can be seen below.
 
+ERC 20
+```
 contract ERC20 {
   function totalSupply() public view returns (uint256);
   function balanceOf(address who) public view returns (uint256);
@@ -41,8 +45,16 @@ contract ERC20 {
   event Approval(address indexed owner, address indexed spender, uint256 value);
   event Transfer(address indexed from, address indexed to, uint256 value);
 }
+```
+ERC 1404
 
 ```
+contract ERC1404 is ERC20 {
+  function detectTransferRestriction (address from, address to, uint256 value) public view returns (uint8);
+  function messageForTransferRestriction (uint8 restrictionCode) public view returns (string);
+}
+
+
 
 
 
