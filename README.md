@@ -55,7 +55,10 @@ contract ERC1404 is ERC20 {
 }
 ```
 
+## Opportunities for Development
 
+Digital securities take many forms.
 
+![Digital_Security_Tokens](https://user-images.githubusercontent.com/94941017/168495826-ae5b55c2-5101-4ea4-b0e7-969f30fb5f4a.png)
 
 
