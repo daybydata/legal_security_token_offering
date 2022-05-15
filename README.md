@@ -14,7 +14,9 @@ It's time to build a new financial ecosystem that combines the protections of SE
 ## The new Financial Ecosystem Needs…
 
 * New (legal) tools for capitalizing business: SEC-registered Security Token Offerings (STOs)
-* A regulated, compliance-first exchange for digital asset
+* A regulated, compliance-first exchange for digital assets
 * A pipeline of credible businesses with large audiences and “tribal” power to drive exchange adoption and velocity
 * A market facilitator to prepare companies for the compliance requirements of a public offering
 * A marketplace for the Insumer* to purchase public shares
+
+*Investor + consumer = Insumer
