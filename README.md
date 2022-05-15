@@ -11,7 +11,7 @@ It's time to build a new financial ecosystem that combines the protections of SE
 
 ![Regulation_is_inevitable](https://user-images.githubusercontent.com/94941017/168478549-2edbe604-4bf7-4c07-9607-1172dc89dff0.png)
 
-## The new Financial Ecosystem Needs…
+## The new financial ecosystem needs...
 
 * New (legal) tools for capitalizing business: SEC-registered Security Token Offerings (STOs) using ECR 1404
 * A regulated, compliance-first exchange for digital assets
