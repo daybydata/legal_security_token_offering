@@ -10,3 +10,11 @@ The crypto solutions to these problems are beleaguered by, volatility, fraud, an
 It's time to build a new financial ecosystem that combines the protections of SEC regulation with the efficiency, security and liquidity of digital assets.
 
 ![Regulation_is_inevitable](https://user-images.githubusercontent.com/94941017/168478549-2edbe604-4bf7-4c07-9607-1172dc89dff0.png)
+
+## The new Financial Ecosystem Needs…
+
+* New (legal) tools for capitalizing business: SEC-registered Security Token Offerings (STOs)
+* A regulated, compliance-first exchange for digital asset
+* A pipeline of credible businesses with large audiences and “tribal” power to drive exchange adoption and velocity
+* A market facilitator to prepare companies for the compliance requirements of a public offering
+* A marketplace for the Insumer* to purchase public shares
