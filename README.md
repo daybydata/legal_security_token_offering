@@ -23,6 +23,8 @@ It's time to build a new financial ecosystem that combines the protections of SE
 
 ## ECR 1404
 
+Well-designed smart contracts can help ensure compliance with U.S. securities law automatically, preventing unqualified trades while ensuring transparency and accuracy with every transation.
+
 “The new standard was proposed by TokenSoft, a leading blockchain-solutions company. The ERC-1404 consensus gives token issuers more control over circulation as well as visibility of holders. The ability to freeze supply and identify holders of the token differentiates it from the typical ERC-20 standard often used for altcoins. The ERC-1404 token was the only standard to be filed in multiple U.S. Securities and Exchange Commission (SEC) hearings, which could eventually result in the ability to transfer equities, debt and derivatives with it.”
 
 https://www.benzinga.com/markets/22/05/27058842/what-is-the-significance-of-the-erc1404
