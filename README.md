@@ -16,14 +16,11 @@ It's time to build a new financial ecosystem that combines the protections of SE
 * New (legal) tools for capitalizing business: SEC-registered Security Token Offerings (STOs)
 * A regulated, compliance-first exchange for digital assets
 * A pipeline of credible businesses with large audiences and “tribal” power to drive exchange adoption and velocity
-* A market facilitator to prepare companies for the compliance requirements of a public offering
-* A marketplace for the Insumer* to purchase public shares
-
-*Investor + consumer = Insumer
+* A market facilitator to prepare companies for a public STO and guide them through the process
 
 ## ECR 1404
 
-An STO is essentially the digital representations of ownership of assets (e.g. gold, real estate) or economic rights (e.g. a share of profits or revenue). Well-designed smart contracts can help ensure compliance with U.S. securities law automatically, preventing unqualified trades while ensuring transparency and accuracy with every transation.
+An STO is essentially the digital representations of ownership of assets (e.g. gold, real estate) or economic rights (e.g. a share of profits or revenue). Well-designed smart contracts can help ensure compliance with U.S. securities law automatically, preventing unqualified trades while ensuring transparency and accuracy with every transation. ERC-1404 is a smart contract template that expressely designed to produce an STO that is compliant with SEC reguations.
 
 "ERC-1404 is a simple restricted token standard on Ethereum. The recent development of the ERC-1404 standard has a couple key features differentiating it from other standards; most notably, it holds similar properties to regulated securities. This feature gives the ERC-1404 token the properties to become a publicly traded, tokenized asset."
 
