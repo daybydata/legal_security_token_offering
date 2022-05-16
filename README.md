@@ -1,5 +1,5 @@
-# legal_security_token_offering
-A project to develop smart contracts for regulated security token offerings.
+# Legal Security Token Offering
+A project to develop smart contracts standards for regulated security token offerings.
 
 ## Problem
 
@@ -20,7 +20,7 @@ It's time to build a new financial ecosystem that combines the protections of SE
 
 ## ECR 1404
 
-An STO is essentially the digital representations of ownership of assets (e.g. gold, real estate) or economic rights (e.g. a share of profits or revenue). Well-designed smart contracts can help ensure compliance with U.S. securities law automatically, preventing unqualified trades while ensuring transparency and accuracy with every transation. ERC-1404 is a smart contract template that expressely designed to produce an STO that is compliant with SEC reguations.
+An STO is essentially the digital representation of ownership of assets (e.g. gold, real estate) or economic rights (e.g. a share of profits or revenue). Well-designed smart contracts can help ensure compliance with U.S. securities law automatically, preventing unqualified trades while ensuring transparency and accuracy with every transation. ERC-1404 is a token standard or smart contract template that is expressely designed to produce an STO that is compliant with SEC reguations.
 
 "ERC-1404 is a simple restricted token standard on Ethereum. The recent development of the ERC-1404 standard has a couple key features differentiating it from other standards; most notably, it holds similar properties to regulated securities. This feature gives the ERC-1404 token the properties to become a publicly traded, tokenized asset."
 
@@ -54,8 +54,10 @@ contract ERC1404 is ERC20 {
 
 ## Opportunities for Development
 
-Unlike traditional equity shares, Digital Security Tokens can take many forms, representing the company, a line of revenue, or other asset (both tangible and intangible) within the company. Each of these forms may represented by a Token Standard that, once approved by the SEC, make the creation of legal STOs efficient and transparent. 
+Unlike traditional equity shares, Digital Security Tokens can take many forms, representing the company, a line of revenue, or other asset (both tangible and intangible) within the company. 
 
 ![Digital_Security_Tokens](https://user-images.githubusercontent.com/94941017/168495826-ae5b55c2-5101-4ea4-b0e7-969f30fb5f4a.png)
+
+Each of these forms may represented by a Token Standard that, once approved by the SEC, make the creation of legal STOs efficient and transparent. 
 
 
