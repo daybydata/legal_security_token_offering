@@ -60,6 +60,6 @@ Unlike traditional equity shares, Digital Security Tokens can take many forms, r
 
 Image source: https://www.inx.co/securities/digital-securities-trading-platform
 
-Each of these forms may represented by a Token Standard that, once approved by the SEC, make the creation of legal STOs highly efficient and transparent. 
+Each of these forms may represented by a token standard that, once approved by the SEC, make the creation of legal STOs highly efficient and transparent. 
 
 
